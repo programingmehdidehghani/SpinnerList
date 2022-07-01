@@ -1,0 +1,3 @@
+include ':customViewKotlin'
+include ':app'
+rootProject.name = "KotlinView"
